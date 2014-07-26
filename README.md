@@ -51,7 +51,7 @@ ln -s /etc/init.d/startAPI /etc/rc3.d/S99zapi
 Then,
 <pre>
 chmod u+x setup.sh
-<pre>
+
 ./setup.sh
 </pre>
 (or whatever you named it).
